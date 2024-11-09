@@ -1,0 +1,12 @@
+D:\Program Files (x86)\AMP Quantower\AMP Quantower\Settings\Scripts\PlaceOrderStrategies\2_Grid_Nasdaq\_2_Grid_Nasdaq.deps.json
+D:\Program Files (x86)\AMP Quantower\AMP Quantower\Settings\Scripts\PlaceOrderStrategies\2_Grid_Nasdaq\_2_Grid_Nasdaq.dll
+D:\Program Files (x86)\AMP Quantower\AMP Quantower\Settings\Scripts\PlaceOrderStrategies\2_Grid_Nasdaq\_2_Grid_Nasdaq.pdb
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\2_Grid_Nasdaq.csproj.AssemblyReference.cache
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\2_Grid_Nasdaq.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\2_Grid_Nasdaq.AssemblyInfoInputs.cache
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\2_Grid_Nasdaq.AssemblyInfo.cs
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\2_Grid_Nasdaq.csproj.CoreCompileInputs.cache
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\_2_Grid_Nasdaq.dll
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\refint\_2_Grid_Nasdaq.dll
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\_2_Grid_Nasdaq.pdb
+D:\VS Studio Repos\2_Grid_Nasdaq\2_Grid_Nasdaq\obj\Debug\ref\_2_Grid_Nasdaq.dll

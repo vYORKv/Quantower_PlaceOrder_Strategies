@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Studio Repos\\2_Grid_Nasdaq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC52C62-426F-4804-97C7-A3F16C9D9685}|2_Grid_Nasdaq\\2_Grid_Nasdaq.csproj|d:\\vs studio repos\\2_grid_nasdaq\\2_grid_nasdaq\\_2_grid_nasdaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC52C62-426F-4804-97C7-A3F16C9D9685}|2_Grid_Nasdaq\\2_Grid_Nasdaq.csproj|solutionrelative:2_grid_nasdaq\\_2_grid_nasdaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_2_Grid_Nasdaq.cs",
+              "DocumentMoniker": "D:\\VS Studio Repos\\2_Grid_Nasdaq\\2_Grid_Nasdaq\\_2_Grid_Nasdaq.cs",
+              "RelativeDocumentMoniker": "2_Grid_Nasdaq\\_2_Grid_Nasdaq.cs",
+              "ToolTip": "D:\\VS Studio Repos\\2_Grid_Nasdaq\\2_Grid_Nasdaq\\_2_Grid_Nasdaq.cs",
+              "RelativeToolTip": "2_Grid_Nasdaq\\_2_Grid_Nasdaq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:49:40.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
