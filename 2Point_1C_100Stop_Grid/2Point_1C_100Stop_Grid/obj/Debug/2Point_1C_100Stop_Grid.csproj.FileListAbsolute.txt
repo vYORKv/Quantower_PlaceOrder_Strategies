@@ -1,0 +1,12 @@
+D:\Program Files (x86)\AMP Quantower\AMP Quantower\Settings\Scripts\PlaceOrderStrategies\2Point_1C_100Stop_Grid\_2Point_1C_100Stop_Grid.deps.json
+D:\Program Files (x86)\AMP Quantower\AMP Quantower\Settings\Scripts\PlaceOrderStrategies\2Point_1C_100Stop_Grid\_2Point_1C_100Stop_Grid.dll
+D:\Program Files (x86)\AMP Quantower\AMP Quantower\Settings\Scripts\PlaceOrderStrategies\2Point_1C_100Stop_Grid\_2Point_1C_100Stop_Grid.pdb
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\2Point_1C_100Stop_Grid.csproj.AssemblyReference.cache
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\2Point_1C_100Stop_Grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\2Point_1C_100Stop_Grid.AssemblyInfoInputs.cache
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\2Point_1C_100Stop_Grid.AssemblyInfo.cs
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\2Point_1C_100Stop_Grid.csproj.CoreCompileInputs.cache
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\_2Point_1C_100Stop_Grid.dll
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\refint\_2Point_1C_100Stop_Grid.dll
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\_2Point_1C_100Stop_Grid.pdb
+D:\VS Studio Repos\2Point_1C_100Stop_Grid\2Point_1C_100Stop_Grid\obj\Debug\ref\_2Point_1C_100Stop_Grid.dll
